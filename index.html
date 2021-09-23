@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+  <title>
+    Juggling Tricks Skill Tree - domonicmilesi.com
+  </title>
+  <meta charset="utf-8">
+  <meta name="author" content="Domonic Milesi" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="shortcut icon" href="../favicon.png">
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+  svg.matrix line {
+    stroke: #d62333
+  }
+
+  svg.matrix .cell {
+    background-color: #000;
+    stroke: #d62333;
+    stroke-width: 0;
+  }
+
+  /* svg.matrix .cell:hover {
+    stroke-width: 1px;
+  } */
+
+  text.active {
+    font-weight: bold;
+    fill: red;
+  }
+
+  text:hover {
+    font-weight: bold;
+  }
+  </style>
+  <!-- <script defer src="tricks_one_line.json"></script> -->
+  <script defer src="nodes_matrix.js"></script>
+  <script defer src="d3.v7.min.js"></script>
+  <script defer src="main.js"></script>
+</head>
+<body>
+<p>Order:
+<select id="order">
+  <option value="count" selected>by Frequency</option>
+  <option value="name">by Name</option>
+  <option value="group">by # of balls</option>
+  <option value="difficulty">by difficulty</option>
+</select>
+</p>
+</body>
+</html>
