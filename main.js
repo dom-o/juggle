@@ -34,9 +34,9 @@
 // // console.log(edges)
 
 var margin = { top: 220, right:0, bottom:0, left: 220 },
-    width = 2000,
-    height = 2000;
-var svg = d3.select('body').append('svg')
+    width = 2600,
+    height = 2600;
+var svg = d3.select('#content').append('svg')
   .attr('class', 'matrix')
   .attr('width', width+margin.right+margin.left)
   .attr('height', height+margin.top+margin.bottom)
@@ -46,7 +46,7 @@ var svg = d3.select('body').append('svg')
 // d3.json('d3_data.json').then(function(tricks) {
   // var matrix = [],
   //     nodes = tricks.nodes,
-      var node_count = nodes.length;
+      // var node_count = nodes.length;
 
   // nodes.forEach(function(node, i) {
   //   node.index = i
@@ -74,17 +74,17 @@ var svg = d3.select('body').append('svg')
   // console.log(nodes)
   // console.log(matrix)
 
-  var x_scale = d3.scaleBand().range([0, width]).domain(d3.range(node_count)).paddingInner(0.1).align(0);
+  var x_scale = d3.scaleBand().range([0, width]).domain(d3.range(nodes.length)).paddingInner(0.1).align(0);
   var symbol_scale = d3.scaleOrdinal().range([d3.symbolCircle, d3.symbolStar, d3.symbolTriangle])
   var color_scale = d3.scaleOrdinal(d3.schemeCategory10)
 
   var orders = {
-    name: d3.range(node_count).sort(function(a,b) { return d3.ascending(nodes[a].name, nodes[b].name) }),
-    count: d3.range(node_count).sort(function(a,b) { return nodes[b].count - nodes[a].count }),
-    group: d3.range(node_count).sort(function(a,b) { return nodes[b].group - nodes[a].group }),
-    difficulty: d3.range(node_count).sort(function(a,b) { return nodes[b].difficulty - nodes[a].difficulty }),
+    name: d3.range(nodes.length).sort(function(a,b) { return d3.ascending(nodes[a].name, nodes[b].name) }),
+    count: d3.range(nodes.length).sort(function(a,b) { return nodes[b].count - nodes[a].count }),
+    group: d3.range(nodes.length).sort(function(a,b) { return nodes[b].group - nodes[a].group }),
+    difficulty: d3.range(nodes.length).sort(function(a,b) { return nodes[b].difficulty - nodes[a].difficulty }),
   }
-  x_scale.domain(orders.count)
+  x_scale.domain(orders.group)
 
   var rows = svg.selectAll('g.row')
     .data(matrix)
@@ -148,7 +148,7 @@ var svg = d3.select('body').append('svg')
       .attr('width', x_scale.bandwidth())
       .attr('height', x_scale.bandwidth())
       .style('fill', function(el, i) {
-        return el.z==5 ? color_scale(nodes[el.x].group) : '#000'
+        return el.z==5 ? color_scale(nodes[el.x].group) : '#FFF'
       })
       .style('fill-opacity', function(el, i) {
         return el.z==5 ? 0.5 : 0.06
@@ -163,7 +163,7 @@ var svg = d3.select('body').append('svg')
         if(nodes[el.x].group === nodes[el.y].group) {
           return color_scale(nodes[el.x].group)
         } else {
-          return '#555'
+          return '#aaa'
         }
       })
       .attr('transform', function(el, i) {

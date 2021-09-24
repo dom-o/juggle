@@ -1,0 +1,81 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.6;
+  font-size:1rem;
+}
+body {
+  background-color: #222;
+  color: #FFF;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-rendering:optimizeLegibility
+  min-width: 2500px
+}
+header {
+  margin: 1rem;
+}
+header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+header a:link {
+  color: #0095F8;
+  border-bottom: .1em solid;
+  background-color: #222;
+}
+header a:visited {
+  color: #8383FF;
+}
+header a:hover, .content a:active {
+  color: #222;
+  background-color: #0095F8;
+}
+header a:visited:hover, .content a:visited:active {
+  background-color: #8383FF;
+}
+
+#content {
+  min-width: 2900px;
+  padding: 1rem 2rem 1rem 2rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+svg {
+  font: 10px sans-serif;
+}
+
+svg.matrix line {
+  stroke: #d62333
+}
+
+svg.matrix .cell {
+  background-color: #fff;
+  /* stroke: #d62333;
+  stroke-width: 0; */
+}
+
+/* svg.matrix .cell:hover {
+  stroke-width: 1px;
+} */
+svg text {
+  fill: #FFF;
+}
+
+svg text.active {
+  font-weight: bold;
+  fill: red;
+}
+
+svg text:hover {
+  font-weight: bold;
+}
