@@ -75,7 +75,7 @@ var svg = d3.select('#content').append('svg')
   // console.log(matrix)
 
   var x_scale = d3.scaleBand().range([0, width]).domain(d3.range(nodes.length)).paddingInner(0.1).align(0);
-  var symbol_scale = d3.scaleOrdinal().range([d3.symbolCircle, d3.symbolStar, d3.symbolTriangle])
+  var symbol_scale = d3.scaleOrdinal().range([d3.symbolCircle, d3.symbolStar, d3.symbolTriangle, d3.symbolWye, d3.symbolDiamond])
   var color_scale = d3.scaleOrdinal(d3.schemeCategory10)
 
   var orders = {
@@ -157,7 +157,7 @@ var svg = d3.select('#content').append('svg')
     cells.filter(function(el) { return (el.z!=5 && el.z != 1) })
       .append('path')
       .attr('d', function(el) {
-        return d3.symbol().size(x_scale.bandwidth()*7).type(symbol_scale(el.z))()
+        return d3.symbol().size(x_scale.bandwidth()*7).type(symbol_scale(el.z===2?el.z:(el.z*(el.a?8:9))))()
       })
       .style('fill', function(el) {
         if(nodes[el.x].group === nodes[el.y].group) {
