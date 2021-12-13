@@ -17,56 +17,9 @@
   <script defer src="main.js"></script>
 </head>
 <body>
-<header>Back to <a href="https://domonicmilesi.com/">domonicmilesi.com</a></header>
 <div id="content">
+<header>Back to <a href="https://domonicmilesi.com/">domonicmilesi.com</a></header>
 <h1>Juggling Tricks Matrix</h1>
-<details>
-  <summary>Legend</summary>
-<p>
-  <svg id="legend02" width="480" height="120">
-    <rect x="10" y="10" width="18" height="18" style="fill: rgb(31, 119, 180); fill-opacity: 0.7; stroke: rgb(31, 119, 180);"></rect>
-    <text x="35" y="24" class="legend">2 ball tricks</text>
-
-    <rect x="10" y="32" width="18" height="18" style="fill: rgb(148, 103, 189); fill-opacity: 0.7; stroke: rgb(148, 103, 189);"></rect>
-    <text x="35" y="46" class="legend">3 ball tricks</text>
-
-    <rect x="10" y="54" width="18" height="18" style="fill: rgb(255, 127, 14); fill-opacity: 0.7; stroke: rgb(255, 127, 14);"></rect>
-    <text x="35" y="68" class="legend">4 ball tricks</text>
-
-    <rect x="10" y="76" width="18" height="18" style="fill: rgb(214, 39, 40); fill-opacity: 0.7; stroke: rgb(214, 39, 40);"></rect>
-    <text x="35" y="90" class="legend">5 ball tricks</text>
-
-    <rect x="10" y="98" width="18" height="18" style="fill: rgb(44, 160, 44); fill-opacity: 0.7; stroke: rgb(44, 160, 44);"></rect>
-    <text x="35" y="112" class="legend">6 ball tricks</text>
-
-    <!-- star -->
-    <path d="M0,-8.835794231819852L1.98375940269382,-2.730410576432468L8.403339680815401,-2.7304105764324684L3.2097901390607904,1.04292403695501L5.193549541754612,7.148307692342393L4.440892098500626e-16,3.3749730789549153L-5.19354954175461,7.148307692342396L-3.2097901390607904,1.042924036955011L-8.403339680815401,-2.730410576432466L-1.9837594026938206,-2.7304105764324675Z" style="fill: rgb(255,255,255);"
-    transform="translate(130,20)"></path>
-    <text x="145" y="24" class="legend">indicates two similar tricks</text>
-
-    <!-- y -->
-    <path d="M2.5262981102949955,1.4585588940320586L2.5262981102949955,6.511155114622049L-2.5262981102949955,6.511155114622049L-2.5262981102949955,1.4585588940320584L-6.9019747923911705,-1.0677392162629369L-4.375676682096175,-5.443415898359112L0,-2.9171177880641173L4.375676682096175,-5.443415898359112L6.9019747923911705,-1.0677392162629369Z" style="fill: rgb(255,255,255);"
-    transform="translate(130,43)"></path>
-    <text x="145" y="46" class="legend">x-axis trick is an optional prerequisite for y-axis trick</text>
-
-    <!-- triangle -->
-    <path d="M0,-8.213747587635895L7.113314071165835,4.106873793817948L-7.113314071165835,4.106873793817948Z" style="fill: rgb(255,255,255);"
-    transform="translate(130,66)"></path>
-    <text x="145" y="68" class="legend">y-axis trick is an optional prerequisite for x-axis trick</text>
-
-    <!-- circle -->
-    <path d="M5.281744170799114,0A5.281744170799114,5.281744170799114,0,1,1,-5.281744170799114,0A5.281744170799114,5.281744170799114,0,1,1,5.281744170799114,0" style="fill: rgb(255,255,255);"
-    transform="translate(130,86)"></path>
-    <text x="145" y="90" class="legend">x-axis trick is a prerequisite for y-axis trick</text>
-
-    <!-- diamond -->
-    <path d="M0,-8.711994927257981L5.029872616431049,0L0,8.711994927257981L-5.029872616431049,0Z" style="fill: rgb(255,255,255);"
-    transform="translate(130,108)"></path>
-    <text x="145" y="112" class="legend">y-axis trick is a prerequisite for x-axis trick</text>
-  </svg>
-</p>
-  <p>Trick data from <a href="https://libraryofjuggling.com/">Library of Juggling</a>.</p>
-</details>
 <p>Order:
 <select id="order">
   <option value="group" selected>by # of balls</option>
@@ -75,6 +28,11 @@
   <option value="difficulty">by difficulty</option>
 </select>
 </p>
+<div id="matrix-container">
+  <canvas id="hover"></canvas>
+  <canvas id="labels"></canvas>
+  <canvas id="matrix"></canvas>
+</div>
 </div>
 </body>
 </html>

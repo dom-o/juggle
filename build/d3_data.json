@@ -1,0 +1,2953 @@
+{
+"nodes":[
+  {
+    "name": "Two in one",
+    "group": 0,
+    "difficulty": 2,
+    "url": ""
+  },
+  {
+    "name": "Four Ball Shuffle-Switch",
+    "group": 2,
+    "difficulty": 3,
+    "url": ""
+  },
+  {
+    "name": "Six Ball Synchronous Fountain",
+    "group": 4,
+    "difficulty": 9,
+    "url": ""
+  },
+  {
+    "name": "Six Ball Shower",
+    "group": 4,
+    "difficulty": 9,
+    "url": ""
+  },
+  {
+    "name": "Five Ball Mills Mess",
+    "group": 3,
+    "difficulty": 8,
+    "url": ""
+  },
+  {
+    "name": "Six Ball Multiplex Cascade",
+    "group": 4,
+    "difficulty": 7,
+    "url": ""
+  },
+  {
+    "name": "Four Ball Box Columns",
+    "group": 2,
+    "difficulty": 7,
+    "url": ""
+  },
+  {
+    "name": "Four Ball Grace",
+    "group": 2,
+    "difficulty": 4,
+    "url": ""
+  },
+  {
+    "name": "Four Ball Statue of Liberty",
+    "group": 2,
+    "difficulty": 4,
+    "url": ""
+  },
+  {
+    "name": "7531",
+    "group": 2,
+    "difficulty": 5,
+    "url": ""
+  },
+  {
+    "name": "Jay's Jumble",
+    "group": 1,
+    "difficulty": 6,
+    "url": ""
+  },
+  {
+    "name": "Reverse Windmill",
+    "group": 1,
+    "difficulty": 5,
+    "url": ""
+  },
+  {
+    "name": "Four Ball Asynchronous Half-Shower",
+    "group": 2,
+    "difficulty": 6,
+    "url": ""
+  },
+  {
+    "name": "Burke's Barrage",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Burke'sBarrage.html"
+  },
+  {
+    "name": "Infinity",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Infinity.html"
+  },
+  {
+    "name": "Columns",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Columns.html"
+  },
+  {
+    "name": "Shuffle-Switch",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Shuffle-Switch.html"
+  },
+  {
+    "name": "Factory",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Factory.html"
+  },
+  {
+    "name": "Fake Mess",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/FakeMess.html"
+  },
+  {
+    "name": "Half-Shower",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Half-Shower.html"
+  },
+  {
+    "name": "Reverse Infinity",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ReverseInfinity.html"
+  },
+  {
+    "name": "The W",
+    "group": 1,
+    "difficulty": 2,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/TheW.html"
+  },
+  {
+    "name": "423",
+    "group": 1,
+    "difficulty": 2,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/423.html"
+  },
+  {
+    "name": "Al's Slide",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Al'sSlide.html"
+  },
+  {
+    "name": "Rainbow Cross",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/RainbowArches.html"
+  },
+  {
+    "name": "Columns: Overthrow Variation",
+    "group": 1,
+    "difficulty": 3,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ColumnOverVar.html"
+  },
+  {
+    "name": "Juggler's Tennis",
+    "group": 1,
+    "difficulty": 2,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/JugglersTennis.html"
+  },
+  {
+    "name": "Oy-Oy",
+    "group": 1,
+    "difficulty": 2,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Oy-Oy.html"
+  },
+  {
+    "name": "Yo-Yo",
+    "group": 1,
+    "difficulty": 2,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Yo-Yo.html"
+  },
+  {
+    "name": "Bizarre Box",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html"
+  },
+  {
+    "name": "Six Ball Fountain",
+    "group": 4,
+    "difficulty": 9,
+    "url": "https://libraryofjuggling.com/Tricks/6balltricks/SixBallFountain.html"
+  },
+  {
+    "name": "Five Ball Shower",
+    "group": 3,
+    "difficulty": 9,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/FiveBallShower.html"
+  },
+  {
+    "name": "Five Ball Half-Shower",
+    "group": 3,
+    "difficulty": 9,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/FiveBallHalf-Shower.html"
+  },
+  {
+    "name": "Five Ball Reverse Cascade",
+    "group": 3,
+    "difficulty": 9,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/FiveBallReverseCascade.html"
+  },
+  {
+    "name": "Five Ball Cascade",
+    "group": 3,
+    "difficulty": 9,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/FiveBallCascade.html"
+  },
+  {
+    "name": "Sprung Cascade",
+    "group": 2,
+    "difficulty": 8,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/SprungCascade.html"
+  },
+  {
+    "name": "534 Mills Mess",
+    "group": 2,
+    "difficulty": 8,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/534MillsMess.html"
+  },
+  {
+    "name": "Four Ball Mills Mess",
+    "group": 2,
+    "difficulty": 8,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallMillsMess.html"
+  },
+  {
+    "name": "Inverted Shower",
+    "group": 1,
+    "difficulty": 8,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/InvertedShower.html"
+  },
+  {
+    "name": "Five Ball Multiplex Columns",
+    "group": 3,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/FiveBallMultiplexColumns.html"
+  },
+  {
+    "name": "Five Ball Stacked Multiplex Cascade",
+    "group": 3,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/FiveBallStackedMultiplexCascade.html"
+  },
+  {
+    "name": "Four Ball Windmill",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallWindmill.html"
+  },
+  {
+    "name": "534",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/534.html"
+  },
+  {
+    "name": "Tsunami",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Tsunami.html"
+  },
+  {
+    "name": "Reverse Synchronous Fountain",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/ReverseSynchFountain.html"
+  },
+  {
+    "name": "Synchronous Fountain",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/SynchFountain.html"
+  },
+  {
+    "name": "Four Ball Half-Mess",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallHalf-Mess.html"
+  },
+  {
+    "name": "Fountain",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Fountain.html"
+  },
+  {
+    "name": "Pistons",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Pistons.html"
+  },
+  {
+    "name": "Arches",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Arches.html"
+  },
+  {
+    "name": "Four Ball Shower",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallShower.html"
+  },
+  {
+    "name": "Reverse Fountain",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/ReverseFountain.html"
+  },
+  {
+    "name": "Four Ball Box",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallBox.html"
+  },
+  {
+    "name": "Four Ball Stacked Box",
+    "group": 2,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallStackedBox.html"
+  },
+  {
+    "name": "Low Shuffle",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/LowShuffle.html"
+  },
+  {
+    "name": "Shuffle",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Shuffle.html"
+  },
+  {
+    "name": "Levels",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Levels.html"
+  },
+  {
+    "name": "Three in One",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ThreeInOne.html"
+  },
+  {
+    "name": "Backcrosses",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Backcrosses.html"
+  },
+  {
+    "name": "Alex",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Alex.html"
+  },
+  {
+    "name": "True Box",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/TrueBox.html"
+  },
+  {
+    "name": "Luke's Shuffle",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Luke'sShuffle.html"
+  },
+  {
+    "name": "N-Box",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/N-Box.html"
+  },
+  {
+    "name": "Reverse Crossed-Arm Shower",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ReverseCrossedArmShower.html"
+  },
+  {
+    "name": "Inverted Box",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html"
+  },
+  {
+    "name": "Crossed-Arm Shower",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/CrossedArmShower.html"
+  },
+  {
+    "name": "Karas's Box",
+    "group": 1,
+    "difficulty": 7,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html"
+  },
+  {
+    "name": "Five Ball Split Multiplex Cascade",
+    "group": 3,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/FiveBallSplitMultiplexCascade.html"
+  },
+  {
+    "name": "Martin",
+    "group": 3,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/5balltricks/Martin.html"
+  },
+  {
+    "name": "Synchronous Pistons",
+    "group": 2,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/SynchPistons.html"
+  },
+  {
+    "name": "Dancey's Devilment",
+    "group": 2,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Dancey'sDevilment.html"
+  },
+  {
+    "name": "Tennessee Waltz",
+    "group": 2,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/TennesseeWaltz.html"
+  },
+  {
+    "name": "Four Ball Half-Shower",
+    "group": 2,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallHalfShower.html"
+  },
+  {
+    "name": "Cliff's Confusion",
+    "group": 2,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Cliff'sConfusion.html"
+  },
+  {
+    "name": "Four Ball Rainbow Cross",
+    "group": 2,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallRainbowCross.html"
+  },
+  {
+    "name": "Underarm Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/UnderarmBox.html"
+  },
+  {
+    "name": "Switched Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/SwitchedBox.html"
+  },
+  {
+    "name": "Threaded Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ThreadedBox.html"
+  },
+  {
+    "name": "Swap Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/SwapBox.html"
+  },
+  {
+    "name": "Penman's Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Penman'sBox.html"
+  },
+  {
+    "name": "Gilligan's Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Gilligan'sBox.html"
+  },
+  {
+    "name": "Extended Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ExtendedBox.html"
+  },
+  {
+    "name": "Burst Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/BurstBox.html"
+  },
+  {
+    "name": "Broken Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/BrokenBox.html"
+  },
+  {
+    "name": "Box",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Box.html"
+  },
+  {
+    "name": "Luke's Lobotomy",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Luke'sLobotomy.html"
+  },
+  {
+    "name": "Symmetric Georgian Scuffle",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/SymmetricGeorgianScuffle.html"
+  },
+  {
+    "name": "Takearound",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Takearound.html"
+  },
+  {
+    "name": "Zebra Factory",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ZebraFactory.html"
+  },
+  {
+    "name": "Relf's Rubensteins",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Relf'sRubensteins.html"
+  },
+  {
+    "name": "Relf's Revenge 6",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Relf'sRevenge6.html"
+  },
+  {
+    "name": "Romeo's Revenge",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Romeo'sRevenge.html"
+  },
+  {
+    "name": "Rubenstein's Revenge",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Rubenstein'sRevenge.html"
+  },
+  {
+    "name": "Compressed Olas",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/CompressedOlas.html"
+  },
+  {
+    "name": "Olas",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Olas.html"
+  },
+  {
+    "name": "Marden's Marvel",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Marden'sMarvel.html"
+  },
+  {
+    "name": "Frostbite",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Frostbite.html"
+  },
+  {
+    "name": "Kraken",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Kraken.html"
+  },
+  {
+    "name": "Jeanne",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Jeanne.html"
+  },
+  {
+    "name": "Harrison's Hang",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Harrison'sHang.html"
+  },
+  {
+    "name": "Frantic Cascade",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/FranticCascade.html"
+  },
+  {
+    "name": "Boston Mess",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/BostonMess.html"
+  },
+  {
+    "name": "Cherry Picker",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/CherryPicker.html"
+  },
+  {
+    "name": "Arrow of Asai",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ArrowofAsai.html"
+  },
+  {
+    "name": "Chop Shower",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ChopShower.html"
+  },
+  {
+    "name": "531 Mills Mess",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/531MillsMess.html"
+  },
+  {
+    "name": "441 Mills Mess",
+    "group": 1,
+    "difficulty": 6,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/441MillsMess.html"
+  },
+  {
+    "name": "Four Ball Columns",
+    "group": 2,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallColumns.html"
+  },
+  {
+    "name": "55550",
+    "group": 2,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/55550.html"
+  },
+  {
+    "name": "Wimpy",
+    "group": 2,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Wimpy.html"
+  },
+  {
+    "name": "Four Ball Takeouts",
+    "group": 2,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/FourBallTakeouts.html"
+  },
+  {
+    "name": "5551",
+    "group": 2,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/5551.html"
+  },
+  {
+    "name": "Lisa",
+    "group": 2,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/Lisa.html"
+  },
+  {
+    "name": "Relf's Revenge",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Relf'sRevenge.html"
+  },
+  {
+    "name": "Burke's Slam",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html"
+  },
+  {
+    "name": "Windmill",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Windmill.html"
+  },
+  {
+    "name": "Flipped Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/FlippedMess.html"
+  },
+  {
+    "name": "Charley",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Charley.html"
+  },
+  {
+    "name": "Mills Mess Shower",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/MillsMessShower.html"
+  },
+  {
+    "name": "Reverse Mills Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ReverseMillsMess.html"
+  },
+  {
+    "name": "Mills Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/MillsMess.html"
+  },
+  {
+    "name": "Flo's Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Flo'sMess.html"
+  },
+  {
+    "name": "531",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/531.html"
+  },
+  {
+    "name": "Georgian Scuffle",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/GeorgianScuffle.html"
+  },
+  {
+    "name": "Tom's Trick",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html"
+  },
+  {
+    "name": "Shuffler's Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Shuffler'sMess.html"
+  },
+  {
+    "name": "Underarm Shower",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/UnderarmShower.html"
+  },
+  {
+    "name": "Shower: Swap Variation",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ShowerSwapVariation.html"
+  },
+  {
+    "name": "High-Low Shower",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/High-LowShower.html"
+  },
+  {
+    "name": "Shower",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Shower.html"
+  },
+  {
+    "name": "Broken Shower",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/BrokenShower.html"
+  },
+  {
+    "name": "Sandbox Shuffle",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/SandboxShuffle.html"
+  },
+  {
+    "name": "Orka's Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Orka'sMess.html"
+  },
+  {
+    "name": "Frances",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Frances.html"
+  },
+  {
+    "name": "Symmetric Georgian Shuffle",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/SymmetricGeorgianShuffle.html"
+  },
+  {
+    "name": "Maka's Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Maka'sMess.html"
+  },
+  {
+    "name": "Nelson's Nemesis",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Nelson'sNemesis.html"
+  },
+  {
+    "name": "Kato's Crux",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Kato'sCrux.html"
+  },
+  {
+    "name": "Icelandic Shuffle",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/IcelandicShuffle.html"
+  },
+  {
+    "name": "Forklift",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Forklift.html"
+  },
+  {
+    "name": "Flying Disco Drop",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/FlyingDiscoDrop.html"
+  },
+  {
+    "name": "Boston Shuffle",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/BostonShuffle.html"
+  },
+  {
+    "name": "Peter's Shuffle",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Peter'sShuffle.html"
+  },
+  {
+    "name": "Orinoco Flow",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/OrinocoFlow.html"
+  },
+  {
+    "name": "Relf's Factory",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Relf'sFactory.html"
+  },
+  {
+    "name": "Crossed-Arm Factory",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/CrossedArmFactory.html"
+  },
+  {
+    "name": "Matt's Mess",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Matt'sMess.html"
+  },
+  {
+    "name": "Columns: Box Variation",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ColumnBoxVar.html"
+  },
+  {
+    "name": "Columns: Shower Variation",
+    "group": 1,
+    "difficulty": 5,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ColumnShowVar.html"
+  },
+  {
+    "name": "Ripley's Rainbow",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Ripley'sRainbow.html"
+  },
+  {
+    "name": "Rolf's Wave",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Rolf'sWave.html"
+  },
+  {
+    "name": "Reverse Crossunder",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ReverseCrossunder.html"
+  },
+  {
+    "name": "Crossunder",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Crossunder.html"
+  },
+  {
+    "name": "Truffle Shuffle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/TruffleShuffle.html"
+  },
+  {
+    "name": "Triazzle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Triazzle.html"
+  },
+  {
+    "name": "Weave",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Weave.html"
+  },
+  {
+    "name": "Statue of Liberty",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html"
+  },
+  {
+    "name": "Follow",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Follow.html"
+  },
+  {
+    "name": "Reverse 441",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Reverse441(Half-Box).html"
+  },
+  {
+    "name": "441 (Half-Box)",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Half-Box(441).html"
+  },
+  {
+    "name": "Snake",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Snake.html"
+  },
+  {
+    "name": "Shower Cascade",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Shower-Cascade.html"
+  },
+  {
+    "name": "Reverse Factory",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ReverseFactory.html"
+  },
+  {
+    "name": "Penman's Pandemonium",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Penman'sPandemonium.html"
+  },
+  {
+    "name": "Half-Mess",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Half-Mess.html"
+  },
+  {
+    "name": "Pendulum Drop",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/PendulumDrop.html"
+  },
+  {
+    "name": "Mike's Mess",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Mike'sMess.html"
+  },
+  {
+    "name": "Mangham's Mangle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Mangham'sMangle.html"
+  },
+  {
+    "name": "Kingston Shuffle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/KingstonShuffle.html"
+  },
+  {
+    "name": "King of Hearts",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/KingofHearts.html"
+  },
+  {
+    "name": "Hands of Time",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/HandsOfTime.html"
+  },
+  {
+    "name": "552",
+    "group": 2,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/4balltricks/552.html"
+  },
+  {
+    "name": "Singapore Shuffle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/SingaporeShuffle.html"
+  },
+  {
+    "name": "Grace",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Grace.html"
+  },
+  {
+    "name": "Davenport Shuffle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/DavenportShuffle.html"
+  },
+  {
+    "name": "Buffalo Shuffle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/BuffaloShuffle.html"
+  },
+  {
+    "name": "Georgian Shuffle",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/GeorgianShuffle.html"
+  },
+  {
+    "name": "Crossed-Arm Cascade",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/CrossedArmCascade.html"
+  },
+  {
+    "name": "David's Dilemma",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/David'sDilemma.html"
+  },
+  {
+    "name": "Crossed-Arm Reverse Cascade",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/CrossedArmReverseCascade.html"
+  },
+  {
+    "name": "Chops",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Chops.html"
+  },
+  {
+    "name": "High-Low Cascade",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/High-LowCascade.html"
+  },
+  {
+    "name": "Fake Columns",
+    "group": 1,
+    "difficulty": 2,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/FakeColumns.html"
+  },
+  {
+    "name": "Reverse Cascade",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ReverseCascade.html"
+  },
+  {
+    "name": "Takeouts",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Takeouts.html"
+  },
+  {
+    "name": "Cascade",
+    "group": 1,
+    "difficulty": 2,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/Cascade.html"
+  },
+  {
+    "name": "Reverse Chops",
+    "group": 1,
+    "difficulty": 4,
+    "url": "https://libraryofjuggling.com/Tricks/3balltricks/ReverseChops.html"
+  }
+],
+"links":[
+  {
+    "source": 184,
+    "target": 13,
+    "value": 4
+  },
+  {
+    "source": 18,
+    "target": 13,
+    "value": 3
+  },
+  {
+    "source": 15,
+    "target": 14,
+    "value": 4
+  },
+  {
+    "target": 25,
+    "source": 14,
+    "value": 2
+  },
+  {
+    "target": 20,
+    "source": 14,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 15,
+    "value": 4
+  },
+  {
+    "target": 107,
+    "source": 15,
+    "value": 2
+  },
+  {
+    "source": 15,
+    "target": 16,
+    "value": 4
+  },
+  {
+    "target": 1,
+    "source": 16,
+    "value": 2
+  },
+  {
+    "source": 182,
+    "target": 17,
+    "value": 4
+  },
+  {
+    "target": 165,
+    "source": 17,
+    "value": 2
+  },
+  {
+    "source": 22,
+    "target": 18,
+    "value": 4
+  },
+  {
+    "target": 120,
+    "source": 18,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 19,
+    "value": 4
+  },
+  {
+    "source": 26,
+    "target": 19,
+    "value": 4
+  },
+  {
+    "target": 129,
+    "source": 19,
+    "value": 2
+  },
+  {
+    "source": 15,
+    "target": 20,
+    "value": 4
+  },
+  {
+    "target": 14,
+    "source": 20,
+    "value": 2
+  },
+  {
+    "source": 22,
+    "target": 21,
+    "value": 4
+  },
+  {
+    "target": 101,
+    "source": 21,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 22,
+    "value": 4
+  },
+  {
+    "source": 14,
+    "target": 23,
+    "value": 4
+  },
+  {
+    "source": 15,
+    "target": 24,
+    "value": 4
+  },
+  {
+    "target": 25,
+    "source": 24,
+    "value": 2
+  },
+  {
+    "source": 15,
+    "target": 25,
+    "value": 4
+  },
+  {
+    "target": 14,
+    "source": 25,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 26,
+    "value": 4
+  },
+  {
+    "target": 19,
+    "source": 26,
+    "value": 2
+  },
+  {
+    "source": 28,
+    "target": 27,
+    "value": 4
+  },
+  {
+    "source": 182,
+    "target": 28,
+    "value": 4
+  },
+  {
+    "target": 27,
+    "source": 28,
+    "value": 2
+  },
+  {
+    "source": 84,
+    "target": 29,
+    "value": 4
+  },
+  {
+    "target": 66,
+    "source": 29,
+    "value": 2
+  },
+  {
+    "source": 47,
+    "target": 30,
+    "value": 4
+  },
+  {
+    "source": 57,
+    "target": 30,
+    "value": 4
+  },
+  {
+    "source": 34,
+    "target": 30,
+    "value": 3
+  },
+  {
+    "target": 2,
+    "source": 30,
+    "value": 2
+  },
+  {
+    "source": 50,
+    "target": 31,
+    "value": 4
+  },
+  {
+    "target": 3,
+    "source": 31,
+    "value": 2
+  },
+  {
+    "source": 34,
+    "target": 32,
+    "value": 4
+  },
+  {
+    "source": 72,
+    "target": 32,
+    "value": 4
+  },
+  {
+    "source": 34,
+    "target": 33,
+    "value": 4
+  },
+  {
+    "source": 185,
+    "target": 34,
+    "value": 4
+  },
+  {
+    "source": 171,
+    "target": 34,
+    "value": 4
+  },
+  {
+    "source": 111,
+    "target": 34,
+    "value": 4
+  },
+  {
+    "source": 108,
+    "target": 34,
+    "value": 4
+  },
+  {
+    "target": 33,
+    "source": 34,
+    "value": 2
+  },
+  {
+    "source": 84,
+    "target": 35,
+    "value": 4
+  },
+  {
+    "source": 111,
+    "target": 35,
+    "value": 4
+  },
+  {
+    "source": 37,
+    "target": 36,
+    "value": 4
+  },
+  {
+    "source": 42,
+    "target": 36,
+    "value": 4
+  },
+  {
+    "source": 105,
+    "target": 36,
+    "value": 3
+  },
+  {
+    "source": 120,
+    "target": 37,
+    "value": 4
+  },
+  {
+    "source": 51,
+    "target": 37,
+    "value": 4
+  },
+  {
+    "target": 4,
+    "source": 37,
+    "value": 2
+  },
+  {
+    "source": 17,
+    "target": 38,
+    "value": 4
+  },
+  {
+    "source": 15,
+    "target": 39,
+    "value": 4
+  },
+  {
+    "source": 185,
+    "target": 40,
+    "value": 4
+  },
+  {
+    "target": 5,
+    "source": 40,
+    "value": 2
+  },
+  {
+    "source": 115,
+    "target": 41,
+    "value": 4
+  },
+  {
+    "source": 47,
+    "target": 41,
+    "value": 4
+  },
+  {
+    "source": 37,
+    "target": 41,
+    "value": 3
+  },
+  {
+    "source": 122,
+    "target": 42,
+    "value": 4
+  },
+  {
+    "source": 47,
+    "target": 42,
+    "value": 4
+  },
+  {
+    "source": 37,
+    "target": 43,
+    "value": 3
+  },
+  {
+    "source": 45,
+    "target": 44,
+    "value": 4
+  },
+  {
+    "source": 47,
+    "target": 45,
+    "value": 4
+  },
+  {
+    "target": 44,
+    "source": 45,
+    "value": 2
+  },
+  {
+    "source": 164,
+    "target": 46,
+    "value": 4
+  },
+  {
+    "source": 37,
+    "target": 46,
+    "value": 3
+  },
+  {
+    "source": 0,
+    "target": 47,
+    "value": 4
+  },
+  {
+    "source": 159,
+    "target": 47,
+    "value": 4
+  },
+  {
+    "target": 51,
+    "source": 47,
+    "value": 2
+  },
+  {
+    "source": 47,
+    "target": 48,
+    "value": 4
+  },
+  {
+    "target": 69,
+    "source": 48,
+    "value": 2
+  },
+  {
+    "source": 72,
+    "target": 49,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 50,
+    "value": 4
+  },
+  {
+    "target": 31,
+    "source": 50,
+    "value": 2
+  },
+  {
+    "source": 47,
+    "target": 51,
+    "value": 4
+  },
+  {
+    "source": 84,
+    "target": 52,
+    "value": 4
+  },
+  {
+    "source": 57,
+    "target": 52,
+    "value": 4
+  },
+  {
+    "source": 35,
+    "target": 52,
+    "value": 3
+  },
+  {
+    "target": 6,
+    "source": 52,
+    "value": 2
+  },
+  {
+    "target": 53,
+    "source": 52,
+    "value": 2
+  },
+  {
+    "source": 84,
+    "target": 53,
+    "value": 4
+  },
+  {
+    "source": 128,
+    "target": 53,
+    "value": 4
+  },
+  {
+    "target": 52,
+    "source": 53,
+    "value": 2
+  },
+  {
+    "source": 55,
+    "target": 54,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 55,
+    "value": 4
+  },
+  {
+    "source": 84,
+    "target": 55,
+    "value": 4
+  },
+  {
+    "target": 54,
+    "source": 55,
+    "value": 2
+  },
+  {
+    "source": 62,
+    "target": 56,
+    "value": 4
+  },
+  {
+    "source": 61,
+    "target": 56,
+    "value": 4
+  },
+  {
+    "target": 81,
+    "source": 56,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 57,
+    "value": 4
+  },
+  {
+    "target": 30,
+    "source": 57,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 58,
+    "value": 4
+  },
+  {
+    "source": 105,
+    "target": 59,
+    "value": 3
+  },
+  {
+    "source": 132,
+    "target": 59,
+    "value": 3
+  },
+  {
+    "source": 84,
+    "target": 60,
+    "value": 4
+  },
+  {
+    "source": 38,
+    "target": 60,
+    "value": 3
+  },
+  {
+    "source": 84,
+    "target": 61,
+    "value": 4
+  },
+  {
+    "source": 55,
+    "target": 61,
+    "value": 4
+  },
+  {
+    "target": 141,
+    "source": 61,
+    "value": 2
+  },
+  {
+    "source": 84,
+    "target": 62,
+    "value": 4
+  },
+  {
+    "source": 55,
+    "target": 62,
+    "value": 4
+  },
+  {
+    "target": 61,
+    "source": 62,
+    "value": 2
+  },
+  {
+    "source": 129,
+    "target": 63,
+    "value": 4
+  },
+  {
+    "target": 65,
+    "source": 63,
+    "value": 2
+  },
+  {
+    "source": 62,
+    "target": 64,
+    "value": 4
+  },
+  {
+    "source": 61,
+    "target": 64,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 65,
+    "value": 4
+  },
+  {
+    "target": 63,
+    "source": 65,
+    "value": 2
+  },
+  {
+    "source": 29,
+    "target": 66,
+    "value": 4
+  },
+  {
+    "source": 185,
+    "target": 67,
+    "value": 4
+  },
+  {
+    "target": 40,
+    "source": 67,
+    "value": 2
+  },
+  {
+    "source": 21,
+    "target": 68,
+    "value": 4
+  },
+  {
+    "source": 57,
+    "target": 68,
+    "value": 4
+  },
+  {
+    "source": 107,
+    "target": 69,
+    "value": 4
+  },
+  {
+    "target": 48,
+    "source": 69,
+    "value": 2
+  },
+  {
+    "source": 92,
+    "target": 70,
+    "value": 4
+  },
+  {
+    "source": 185,
+    "target": 71,
+    "value": 4
+  },
+  {
+    "source": 73,
+    "target": 71,
+    "value": 3
+  },
+  {
+    "source": 19,
+    "target": 72,
+    "value": 4
+  },
+  {
+    "source": 109,
+    "target": 72,
+    "value": 4
+  },
+  {
+    "target": 49,
+    "source": 72,
+    "value": 2
+  },
+  {
+    "target": 12,
+    "source": 72,
+    "value": 2
+  },
+  {
+    "source": 120,
+    "target": 73,
+    "value": 4
+  },
+  {
+    "source": 107,
+    "target": 74,
+    "value": 4
+  },
+  {
+    "source": 24,
+    "target": 74,
+    "value": 4
+  },
+  {
+    "source": 84,
+    "target": 75,
+    "value": 4
+  },
+  {
+    "target": 82,
+    "source": 75,
+    "value": 2
+  },
+  {
+    "source": 84,
+    "target": 76,
+    "value": 4
+  },
+  {
+    "target": 77,
+    "source": 76,
+    "value": 2
+  },
+  {
+    "source": 84,
+    "target": 77,
+    "value": 4
+  },
+  {
+    "source": 84,
+    "target": 78,
+    "value": 4
+  },
+  {
+    "source": 16,
+    "target": 78,
+    "value": 4
+  },
+  {
+    "source": 84,
+    "target": 79,
+    "value": 4
+  },
+  {
+    "source": 163,
+    "target": 79,
+    "value": 3
+  },
+  {
+    "source": 83,
+    "target": 80,
+    "value": 3
+  },
+  {
+    "source": 84,
+    "target": 81,
+    "value": 4
+  },
+  {
+    "source": 83,
+    "target": 82,
+    "value": 4
+  },
+  {
+    "target": 80,
+    "source": 82,
+    "value": 2
+  },
+  {
+    "source": 84,
+    "target": 83,
+    "value": 4
+  },
+  {
+    "source": 161,
+    "target": 83,
+    "value": 3
+  },
+  {
+    "target": 82,
+    "source": 83,
+    "value": 2
+  },
+  {
+    "source": 159,
+    "target": 84,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 84,
+    "value": 4
+  },
+  {
+    "target": 61,
+    "source": 84,
+    "value": 2
+  },
+  {
+    "target": 62,
+    "source": 84,
+    "value": 2
+  },
+  {
+    "source": 179,
+    "target": 85,
+    "value": 4
+  },
+  {
+    "source": 175,
+    "target": 85,
+    "value": 3
+  },
+  {
+    "target": 10,
+    "source": 85,
+    "value": 2
+  },
+  {
+    "source": 123,
+    "target": 86,
+    "value": 4
+  },
+  {
+    "source": 97,
+    "target": 86,
+    "value": 3
+  },
+  {
+    "target": 134,
+    "source": 86,
+    "value": 2
+  },
+  {
+    "source": 184,
+    "target": 87,
+    "value": 4
+  },
+  {
+    "source": 140,
+    "target": 87,
+    "value": 4
+  },
+  {
+    "source": 17,
+    "target": 88,
+    "value": 4
+  },
+  {
+    "source": 62,
+    "target": 88,
+    "value": 3
+  },
+  {
+    "source": 92,
+    "target": 89,
+    "value": 4
+  },
+  {
+    "source": 91,
+    "target": 89,
+    "value": 4
+  },
+  {
+    "target": 113,
+    "source": 89,
+    "value": 2
+  },
+  {
+    "source": 92,
+    "target": 90,
+    "value": 4
+  },
+  {
+    "target": 113,
+    "source": 90,
+    "value": 2
+  },
+  {
+    "source": 92,
+    "target": 91,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 92,
+    "value": 4
+  },
+  {
+    "target": 91,
+    "source": 92,
+    "value": 2
+  },
+  {
+    "source": 94,
+    "target": 93,
+    "value": 4
+  },
+  {
+    "source": 185,
+    "target": 94,
+    "value": 4
+  },
+  {
+    "target": 93,
+    "source": 94,
+    "value": 2
+  },
+  {
+    "source": 92,
+    "target": 95,
+    "value": 4
+  },
+  {
+    "source": 115,
+    "target": 95,
+    "value": 4
+  },
+  {
+    "source": 158,
+    "target": 96,
+    "value": 4
+  },
+  {
+    "target": 97,
+    "source": 96,
+    "value": 2
+  },
+  {
+    "target": 137,
+    "source": 96,
+    "value": 2
+  },
+  {
+    "target": 125,
+    "source": 96,
+    "value": 2
+  },
+  {
+    "target": 106,
+    "source": 96,
+    "value": 2
+  },
+  {
+    "source": 120,
+    "target": 97,
+    "value": 4
+  },
+  {
+    "source": 102,
+    "target": 97,
+    "value": 3
+  },
+  {
+    "source": 132,
+    "target": 98,
+    "value": 4
+  },
+  {
+    "source": 92,
+    "target": 98,
+    "value": 4
+  },
+  {
+    "source": 159,
+    "target": 99,
+    "value": 4
+  },
+  {
+    "source": 163,
+    "target": 99,
+    "value": 4
+  },
+  {
+    "source": 177,
+    "target": 100,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 101,
+    "value": 4
+  },
+  {
+    "source": 21,
+    "target": 101,
+    "value": 4
+  },
+  {
+    "target": 102,
+    "source": 101,
+    "value": 2
+  },
+  {
+    "source": 101,
+    "target": 102,
+    "value": 4
+  },
+  {
+    "source": 55,
+    "target": 103,
+    "value": 4
+  },
+  {
+    "source": 79,
+    "target": 103,
+    "value": 3
+  },
+  {
+    "source": 115,
+    "target": 104,
+    "value": 4
+  },
+  {
+    "source": 179,
+    "target": 104,
+    "value": 4
+  },
+  {
+    "target": 180,
+    "source": 104,
+    "value": 2
+  },
+  {
+    "target": 100,
+    "source": 104,
+    "value": 2
+  },
+  {
+    "target": 156,
+    "source": 104,
+    "value": 2
+  },
+  {
+    "source": 122,
+    "target": 105,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 105,
+    "value": 4
+  },
+  {
+    "source": 158,
+    "target": 106,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 106,
+    "value": 4
+  },
+  {
+    "source": 45,
+    "target": 107,
+    "value": 4
+  },
+  {
+    "source": 15,
+    "target": 107,
+    "value": 4
+  },
+  {
+    "target": 74,
+    "source": 107,
+    "value": 2
+  },
+  {
+    "source": 111,
+    "target": 108,
+    "value": 3
+  },
+  {
+    "target": 34,
+    "source": 108,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 109,
+    "value": 4
+  },
+  {
+    "target": 72,
+    "source": 109,
+    "value": 2
+  },
+  {
+    "source": 184,
+    "target": 110,
+    "value": 4
+  },
+  {
+    "source": 73,
+    "target": 110,
+    "value": 3
+  },
+  {
+    "source": 185,
+    "target": 111,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 111,
+    "value": 4
+  },
+  {
+    "target": 35,
+    "source": 111,
+    "value": 2
+  },
+  {
+    "source": 159,
+    "target": 112,
+    "value": 4
+  },
+  {
+    "source": 107,
+    "target": 112,
+    "value": 4
+  },
+  {
+    "source": 157,
+    "target": 113,
+    "value": 4
+  },
+  {
+    "source": 155,
+    "target": 113,
+    "value": 3
+  },
+  {
+    "target": 90,
+    "source": 113,
+    "value": 2
+  },
+  {
+    "target": 89,
+    "source": 113,
+    "value": 2
+  },
+  {
+    "source": 141,
+    "target": 114,
+    "value": 4
+  },
+  {
+    "source": 184,
+    "target": 114,
+    "value": 4
+  },
+  {
+    "target": 13,
+    "source": 114,
+    "value": 2
+  },
+  {
+    "source": 183,
+    "target": 115,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 115,
+    "value": 3
+  },
+  {
+    "target": 41,
+    "source": 115,
+    "value": 2
+  },
+  {
+    "source": 120,
+    "target": 116,
+    "value": 4
+  },
+  {
+    "source": 177,
+    "target": 117,
+    "value": 4
+  },
+  {
+    "source": 179,
+    "target": 117,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 117,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 118,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 118,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 119,
+    "value": 4
+  },
+  {
+    "target": 11,
+    "source": 119,
+    "value": 2
+  },
+  {
+    "source": 183,
+    "target": 120,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 121,
+    "value": 4
+  },
+  {
+    "target": 115,
+    "source": 121,
+    "value": 2
+  },
+  {
+    "source": 129,
+    "target": 122,
+    "value": 4
+  },
+  {
+    "target": 9,
+    "source": 122,
+    "value": 2
+  },
+  {
+    "source": 176,
+    "target": 123,
+    "value": 4
+  },
+  {
+    "source": 97,
+    "target": 123,
+    "value": 3
+  },
+  {
+    "target": 86,
+    "source": 123,
+    "value": 2
+  },
+  {
+    "source": 180,
+    "target": 124,
+    "value": 4
+  },
+  {
+    "source": 141,
+    "target": 124,
+    "value": 4
+  },
+  {
+    "source": 122,
+    "target": 125,
+    "value": 4
+  },
+  {
+    "source": 120,
+    "target": 125,
+    "value": 4
+  },
+  {
+    "source": 105,
+    "target": 125,
+    "value": 3
+  },
+  {
+    "source": 129,
+    "target": 126,
+    "value": 4
+  },
+  {
+    "target": 75,
+    "source": 126,
+    "value": 2
+  },
+  {
+    "source": 129,
+    "target": 127,
+    "value": 4
+  },
+  {
+    "source": 16,
+    "target": 127,
+    "value": 4
+  },
+  {
+    "target": 78,
+    "source": 127,
+    "value": 2
+  },
+  {
+    "source": 129,
+    "target": 128,
+    "value": 4
+  },
+  {
+    "target": 122,
+    "source": 128,
+    "value": 2
+  },
+  {
+    "source": 19,
+    "target": 129,
+    "value": 4
+  },
+  {
+    "source": 159,
+    "target": 129,
+    "value": 4
+  },
+  {
+    "target": 50,
+    "source": 129,
+    "value": 2
+  },
+  {
+    "source": 129,
+    "target": 130,
+    "value": 4
+  },
+  {
+    "source": 161,
+    "target": 130,
+    "value": 3
+  },
+  {
+    "target": 83,
+    "source": 130,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 131,
+    "value": 4
+  },
+  {
+    "target": 163,
+    "source": 131,
+    "value": 2
+  },
+  {
+    "target": 133,
+    "source": 131,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 132,
+    "value": 4
+  },
+  {
+    "source": 91,
+    "target": 133,
+    "value": 4
+  },
+  {
+    "source": 131,
+    "target": 133,
+    "value": 4
+  },
+  {
+    "source": 176,
+    "target": 134,
+    "value": 4
+  },
+  {
+    "target": 172,
+    "source": 134,
+    "value": 2
+  },
+  {
+    "source": 179,
+    "target": 135,
+    "value": 4
+  },
+  {
+    "target": 85,
+    "source": 135,
+    "value": 2
+  },
+  {
+    "source": 15,
+    "target": 136,
+    "value": 4
+  },
+  {
+    "source": 92,
+    "target": 136,
+    "value": 4
+  },
+  {
+    "source": 131,
+    "target": 137,
+    "value": 3
+  },
+  {
+    "source": 123,
+    "target": 138,
+    "value": 4
+  },
+  {
+    "source": 97,
+    "target": 138,
+    "value": 4
+  },
+  {
+    "source": 176,
+    "target": 139,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 140,
+    "value": 4
+  },
+  {
+    "source": 132,
+    "target": 140,
+    "value": 4
+  },
+  {
+    "source": 170,
+    "target": 140,
+    "value": 3
+  },
+  {
+    "source": 185,
+    "target": 141,
+    "value": 4
+  },
+  {
+    "source": 55,
+    "target": 141,
+    "value": 3
+  },
+  {
+    "target": 61,
+    "source": 141,
+    "value": 2
+  },
+  {
+    "source": 180,
+    "target": 142,
+    "value": 4
+  },
+  {
+    "source": 141,
+    "target": 142,
+    "value": 4
+  },
+  {
+    "source": 155,
+    "target": 143,
+    "value": 4
+  },
+  {
+    "source": 17,
+    "target": 144,
+    "value": 4
+  },
+  {
+    "source": 167,
+    "target": 144,
+    "value": 3
+  },
+  {
+    "source": 17,
+    "target": 145,
+    "value": 4
+  },
+  {
+    "source": 20,
+    "target": 146,
+    "value": 4
+  },
+  {
+    "source": 152,
+    "target": 146,
+    "value": 4
+  },
+  {
+    "source": 15,
+    "target": 147,
+    "value": 4
+  },
+  {
+    "source": 159,
+    "target": 147,
+    "value": 4
+  },
+  {
+    "target": 148,
+    "source": 147,
+    "value": 2
+  },
+  {
+    "source": 15,
+    "target": 148,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 148,
+    "value": 4
+  },
+  {
+    "target": 147,
+    "source": 148,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 149,
+    "value": 4
+  },
+  {
+    "source": 176,
+    "target": 150,
+    "value": 4
+  },
+  {
+    "source": 168,
+    "target": 150,
+    "value": 3
+  },
+  {
+    "source": 15,
+    "target": 151,
+    "value": 4
+  },
+  {
+    "target": 152,
+    "source": 151,
+    "value": 2
+  },
+  {
+    "source": 15,
+    "target": 152,
+    "value": 4
+  },
+  {
+    "target": 151,
+    "source": 152,
+    "value": 2
+  },
+  {
+    "source": 16,
+    "target": 153,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 154,
+    "value": 4
+  },
+  {
+    "source": 22,
+    "target": 155,
+    "value": 4
+  },
+  {
+    "source": 13,
+    "target": 155,
+    "value": 3
+  },
+  {
+    "source": 19,
+    "target": 156,
+    "value": 4
+  },
+  {
+    "target": 8,
+    "source": 156,
+    "value": 2
+  },
+  {
+    "source": 22,
+    "target": 157,
+    "value": 4
+  },
+  {
+    "target": 113,
+    "source": 157,
+    "value": 2
+  },
+  {
+    "source": 159,
+    "target": 158,
+    "value": 4
+  },
+  {
+    "target": 106,
+    "source": 158,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 159,
+    "value": 4
+  },
+  {
+    "target": 84,
+    "source": 159,
+    "value": 2
+  },
+  {
+    "source": 129,
+    "target": 160,
+    "value": 4
+  },
+  {
+    "source": 129,
+    "target": 161,
+    "value": 4
+  },
+  {
+    "source": 17,
+    "target": 162,
+    "value": 4
+  },
+  {
+    "target": 38,
+    "source": 162,
+    "value": 2
+  },
+  {
+    "source": 132,
+    "target": 163,
+    "value": 3
+  },
+  {
+    "source": 131,
+    "target": 163,
+    "value": 3
+  },
+  {
+    "target": 133,
+    "source": 163,
+    "value": 2
+  },
+  {
+    "source": 120,
+    "target": 164,
+    "value": 4
+  },
+  {
+    "source": 0,
+    "target": 165,
+    "value": 4
+  },
+  {
+    "target": 17,
+    "source": 165,
+    "value": 2
+  },
+  {
+    "target": 38,
+    "source": 165,
+    "value": 2
+  },
+  {
+    "source": 179,
+    "target": 166,
+    "value": 4
+  },
+  {
+    "target": 120,
+    "source": 166,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 167,
+    "value": 4
+  },
+  {
+    "source": 176,
+    "target": 168,
+    "value": 4
+  },
+  {
+    "target": 169,
+    "source": 168,
+    "value": 2
+  },
+  {
+    "source": 168,
+    "target": 169,
+    "value": 3
+  },
+  {
+    "source": 129,
+    "target": 170,
+    "value": 4
+  },
+  {
+    "source": 115,
+    "target": 170,
+    "value": 4
+  },
+  {
+    "source": 185,
+    "target": 171,
+    "value": 4
+  },
+  {
+    "source": 160,
+    "target": 171,
+    "value": 4
+  },
+  {
+    "source": 176,
+    "target": 172,
+    "value": 4
+  },
+  {
+    "target": 174,
+    "source": 172,
+    "value": 2
+  },
+  {
+    "source": 176,
+    "target": 173,
+    "value": 4
+  },
+  {
+    "target": 7,
+    "source": 173,
+    "value": 2
+  },
+  {
+    "source": 176,
+    "target": 174,
+    "value": 4
+  },
+  {
+    "target": 172,
+    "source": 174,
+    "value": 2
+  },
+  {
+    "target": 175,
+    "source": 174,
+    "value": 2
+  },
+  {
+    "source": 176,
+    "target": 175,
+    "value": 4
+  },
+  {
+    "target": 174,
+    "source": 175,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 176,
+    "value": 4
+  },
+  {
+    "target": 172,
+    "source": 176,
+    "value": 2
+  },
+  {
+    "target": 174,
+    "source": 176,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 177,
+    "value": 4
+  },
+  {
+    "target": 179,
+    "source": 177,
+    "value": 2
+  },
+  {
+    "source": 129,
+    "target": 178,
+    "value": 4
+  },
+  {
+    "source": 183,
+    "target": 179,
+    "value": 4
+  },
+  {
+    "target": 177,
+    "source": 179,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 180,
+    "value": 4
+  },
+  {
+    "target": 186,
+    "source": 180,
+    "value": 2
+  },
+  {
+    "source": 185,
+    "target": 181,
+    "value": 4
+  },
+  {
+    "source": 0,
+    "target": 182,
+    "value": 4
+  },
+  {
+    "target": 28,
+    "source": 182,
+    "value": 2
+  },
+  {
+    "source": 19,
+    "target": 183,
+    "value": 4
+  },
+  {
+    "source": 26,
+    "target": 183,
+    "value": 4
+  },
+  {
+    "target": 185,
+    "source": 183,
+    "value": 2
+  },
+  {
+    "source": 0,
+    "target": 184,
+    "value": 4
+  },
+  {
+    "source": 185,
+    "target": 184,
+    "value": 4
+  },
+  {
+    "target": 13,
+    "source": 184,
+    "value": 2
+  },
+  {
+    "target": 183,
+    "source": 185,
+    "value": 2
+  },
+  {
+    "source": 180,
+    "target": 186,
+    "value": 4
+  },
+  {
+    "source": 184,
+    "target": 186,
+    "value": 4
+  }
+]
+}
