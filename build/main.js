@@ -131,15 +131,18 @@ var ctx_l = label_canvas.node().getContext('2d')
       drag = true
       last_x = e.clientX
       last_y = e.clientY
+      hover_canvas.style('cursor', 'grab')
     }
   })
 
   document.getElementById('hover').addEventListener('mouseleave', function() { drag = false })
   document.getElementById('hover').addEventListener('mouseout', function() { drag = false })
-  document.getElementById('hover').addEventListener('mouseup', function() { drag = false })
+  document.getElementById('hover').addEventListener('mouseup', function() { drag = false; hover_canvas.style('cursor', 'default'); })
 
   document.getElementById('hover').addEventListener('mousemove', function(e) {
     ctx_h.clearRect(0,0,hover_canvas.attr('width'), hover_canvas.attr('height'))
+
+    if(!(matrix_canvas.attr('width') < document.getElementById('matrix-container').clientWidth && matrix_canvas.attr('height') < document.getElementById('matrix-container').clientHeight)) { hover_canvas.style('cursor', 'grab') }
 
     if(drag) {
       offset_y += last_y - e.clientY
