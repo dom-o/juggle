@@ -100,18 +100,22 @@ var ctx_l = label_canvas.node().getContext('2d')
     ctx_m.clearRect(0,0,matrix_canvas.attr('width'),margin.top-half_band)
     ctx_m.fillStyle = 'white'
     ctx_m.strokeStyle = 'white'
-    if(offset_x == 0) {
+    if(matrix_canvas.attr('width') < document.getElementById('matrix-container').clientWidth) {
       drawLine(ctx_m, margin.left-half_band, 0, margin.left-half_band, margin.top-half_band+height)
-    }
-    else if(offset_x == width+margin.left-half_band - document.getElementById('matrix-container').clientWidth) {
-      drawLine(ctx_m, document.getElementById('matrix-container').clientWidth, 0, document.getElementById('matrix-container').clientWidth, margin.top-half_band+height)
+      drawLine(ctx_m, matrix_canvas.attr('width')-half_band, 0, matrix_canvas.attr('width')-half_band, margin.top-half_band+height)
+    } else if(offset_x == 0) {
+      drawLine(ctx_m, margin.left-half_band, 0, margin.left-half_band, margin.top-half_band+height)
+    } else if(offset_x == width+margin.left-half_band - document.getElementById('matrix-container').clientWidth) {
+      drawLine(ctx_m, document.getElementById('matrix-container').clientWidth-1, 0, document.getElementById('matrix-container').clientWidth-1, margin.top-half_band+height)
     }
 
-    if(offset_y == 0) {
+    if(matrix_canvas.attr('height') < document.getElementById('matrix-container').clientHeight) {
       drawLine(ctx_m, 0, margin.top-half_band, margin.left-half_band+width, margin.top-half_band)
-    }
-    else if(offset_y == height+margin.top-half_band-document.getElementById('matrix-container').clientHeight) {
-      drawLine(ctx_m, 0, document.getElementById('matrix-container').clientHeight, margin.left-half_band+width, document.getElementById('matrix-container').clientHeight)
+      drawLine(ctx_m, 0, matrix_canvas.attr('height')-half_band, margin.left-half_band+width, matrix_canvas.attr('height')-half_band)
+    } else if(offset_y == 0) {
+      drawLine(ctx_m, 0, margin.top-half_band, margin.left-half_band+width, margin.top-half_band)
+    } else if(offset_y == height+margin.top-half_band-document.getElementById('matrix-container').clientHeight) {
+      drawLine(ctx_m, 0, document.getElementById('matrix-container').clientHeight-1, margin.left-half_band+width, document.getElementById('matrix-container').clientHeight-1)
     }
   }
   paint()
@@ -123,9 +127,11 @@ var ctx_l = label_canvas.node().getContext('2d')
   })
 
   document.getElementById('hover').addEventListener('mousedown', function(e) {
-    drag = true
-    last_x = e.clientX
-    last_y = e.clientY
+    if(!(matrix_canvas.attr('width') < document.getElementById('matrix-container').clientWidth && matrix_canvas.attr('height') < document.getElementById('matrix-container').clientHeight)) {
+      drag = true
+      last_x = e.clientX
+      last_y = e.clientY
+    }
   })
 
   document.getElementById('hover').addEventListener('mouseleave', function() { drag = false })
@@ -135,31 +141,32 @@ var ctx_l = label_canvas.node().getContext('2d')
   document.getElementById('hover').addEventListener('mousemove', function(e) {
     ctx_h.clearRect(0,0,hover_canvas.attr('width'), hover_canvas.attr('height'))
 
-    var pad_x = offset_x % x_scale.step()
-    var pad_y = offset_y % x_scale.step()
-
-    var real_x = Math.trunc(((e.offsetX - margin.left + half_band + pad_x) / x_scale.step()))
-    var real_y = Math.trunc(((e.offsetY - margin.top + half_band + pad_y) / x_scale.step()))
-
-    var name_x = real_x + Math.trunc(offset_x/x_scale.step())
-    var name_y = real_y + Math.trunc(offset_y/x_scale.step())
-
-    var x = margin.left - half_band +(real_x * x_scale.step()) - pad_x
-    var y = margin.top - half_band +(real_y * x_scale.step()) - pad_y
-
     if(drag) {
       offset_y += last_y - e.clientY
       offset_x += last_x - e.clientX
       last_x = e.clientX
       last_y = e.clientY
 
-      if(offset_x < 0) { offset_x = 0 }
+      if(offset_x < 0 || matrix_canvas.attr('width') < document.getElementById('matrix-container').clientWidth) { offset_x = 0 }
       else if(width+margin.left-half_band-offset_x < document.getElementById('matrix-container').clientWidth) { offset_x = width+margin.left-half_band - document.getElementById('matrix-container').clientWidth }
-      if(offset_y < 0) { offset_y = 0 }
+
+      if(offset_y < 0 || matrix_canvas.attr('height') < document.getElementById('matrix-container').clientHeight) { offset_y = 0 }
       else if(height+margin.top-half_band-offset_y < document.getElementById('matrix-container').clientHeight) { offset_y= height+margin.top-half_band-document.getElementById('matrix-container').clientHeight}
 
       paint()
     } else {
+      var pad_x = offset_x % x_scale.step()
+      var pad_y = offset_y % x_scale.step()
+
+      var real_x = Math.trunc(((e.offsetX - margin.left + half_band + pad_x) / x_scale.step()))
+      var real_y = Math.trunc(((e.offsetY - margin.top + half_band + pad_y) / x_scale.step()))
+
+      var name_x = real_x + Math.trunc(offset_x/x_scale.step())
+      var name_y = real_y + Math.trunc(offset_y/x_scale.step())
+
+      var x = margin.left - half_band +(real_x * x_scale.step()) - pad_x
+      var y = margin.top - half_band +(real_y * x_scale.step()) - pad_y
+
       if(e.offsetY+half_band>margin.top) {
         text_width = (ctx_l.measureText(nodes[order[name_y]].name).width)
         if(e.offsetX>margin.left-text_width-bandwidth-half_band) {
