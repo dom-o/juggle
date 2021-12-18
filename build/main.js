@@ -47,12 +47,6 @@ var ctx_l = label_canvas.node().getContext('2d')
   }
 
   function paint() {
-    /// TODO:
-    //  DONE/add border around entire graph so you know when you've dragged all the way to the end
-    //  DONE/add hover to the idividual labels and NOT DOING/allow clicking to go to the jugglingskills.com page
-    //  add legend back in/finalize colors/symbols for legend
-    //  DONE/add tooltip over symbols
-
     ctx_l.clearRect(0,0,matrix_canvas.attr('width'),matrix_canvas.attr('height'))
     ctx_m.clearRect(0,0,matrix_canvas.attr('width'),matrix_canvas.attr('height'))
 
@@ -211,11 +205,11 @@ var ctx_l = label_canvas.node().getContext('2d')
           else if(el.z === 4) {
             return (el.a) ? nodes[el.x].name+' is a prereq for '+nodes[el.y].name : nodes[el.y].name+' is a prereq for '+nodes[el.x].name
           }
-          // else if(el.z === 5) {
-          //   return nodes[el.y].name
-          // } else {
-          //     return nodes[el.y].name + ' x ' + nodes[el.x].name
-          // }
+          else if(el.z === 5 && window.matchMedia('(min-width: 480px)').matches) {
+            return nodes[el.y].name
+          } else if (window.matchMedia('(min-width: 480px)').matches) {
+              return nodes[el.y].name + ' x ' + nodes[el.x].name
+          }
           return ''
         }(matrix[order[name_x]][order[name_y]])
         if(title_txt) {
