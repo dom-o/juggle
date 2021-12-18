@@ -205,9 +205,9 @@ var ctx_l = label_canvas.node().getContext('2d')
           else if(el.z === 4) {
             return (el.a) ? nodes[el.x].name+' is a prereq for '+nodes[el.y].name : nodes[el.y].name+' is a prereq for '+nodes[el.x].name
           }
-          else if(el.z === 5 && window.matchMedia('(min-width: 480px)').matches) {
+          else if(el.z === 5) {
             return nodes[el.y].name
-          } else if (window.matchMedia('(min-width: 480px)').matches) {
+          } else {
               return nodes[el.y].name + ' x ' + nodes[el.x].name
           }
           return ''
