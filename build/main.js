@@ -208,7 +208,7 @@ var ctx_l = label_canvas.node().getContext('2d')
           else if(el.z === 5) {
             return nodes[el.y].name
           } else {
-              return nodes[el.y].name + ' x ' + nodes[el.x].name
+              return nodes[el.x].name + ' x ' + nodes[el.y].name
           }
           return ''
         }(matrix[order[name_x]][order[name_y]])
